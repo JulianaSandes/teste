@@ -1,0 +1,78 @@
+/* Smartphone Portrait*/
+body{
+
+    background-color: #7a2dba;
+
+}
+
+
+
+/* Smartphone Landspace */
+
+@media (min-width: 576px){
+
+    body{
+
+        background-color: #c73eb7;
+
+    }
+
+   
+
+}
+
+
+
+/* Tablet Portrait */
+
+@media (min-width: 768px){
+
+    body{
+
+        background-color: #2cafb8;
+
+        color:antiquewhite
+
+    }
+
+   
+
+}
+
+
+
+/* Tablet Landspace */
+
+@media (min-width: 992px){
+
+    body{
+
+        background-color: #3ec7a2;
+
+     
+
+    }
+
+   
+
+}
+
+
+
+/* Notebook e PCs */
+
+@media (min-width: 1200px){
+
+    body{
+
+        background-color: #4c80ce;
+
+        color:black
+
+     
+
+    }
+
+   
+
+}
